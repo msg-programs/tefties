@@ -1,0 +1,319 @@
+{
+    "items": [
+        {
+            "name": "Deathblade",
+            "components": [
+                "B.F. Sword",
+                "B.F. Sword"
+            ]
+        },
+        {
+            "name": "Giant Slayer",
+            "components": [
+                "B.F. Sword",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Edge of Night",
+            "components": [
+                "B.F. Sword",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Bloodthirster",
+            "components": [
+                "B.F. Sword",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Hextech Gunblade",
+            "components": [
+                "B.F. Sword",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Spear of Shojin",
+            "components": [
+                "B.F. Sword",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Sterak's Gage",
+            "components": [
+                "B.F. Sword",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Infinity Edge",
+            "components": [
+                "B.F. Sword",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "True Damage Emblem",
+            "components": [
+                "B.F. Sword",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Red Buff",
+            "components": [
+                "Recurve Bow",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Titan's Resolve",
+            "components": [
+                "Recurve Bow",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Runaan's Hurricane",
+            "components": [
+                "Recurve Bow",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "components": [
+                "Recurve Bow",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Statikk Shiv",
+            "components": [
+                "Recurve Bow",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Nashor's Tooth",
+            "components": [
+                "Recurve Bow",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Last Whisper",
+            "components": [
+                "Recurve Bow",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "8-Bit Emblem",
+            "components": [
+                "Recurve Bow",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Bramble Vest",
+            "components": [
+                "Chain Vest",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Gargoyle Stoneplate",
+            "components": [
+                "Chain Vest",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Crownguard",
+            "components": [
+                "Chain Vest",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Protector's Vow",
+            "components": [
+                "Chain Vest",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Sunfire Cape",
+            "components": [
+                "Chain Vest",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Steadfast Heart",
+            "components": [
+                "Chain Vest",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Pentakill Emblem",
+            "components": [
+                "Chain Vest",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Dragon's Claw",
+            "components": [
+                "Negatron Cloak",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Ionic Spark",
+            "components": [
+                "Negatron Cloak",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Adaptive Helm",
+            "components": [
+                "Negatron Cloak",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Evenshroud",
+            "components": [
+                "Negatron Cloak",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Quicksilver",
+            "components": [
+                "Negatron Cloak",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Jazz Emblem",
+            "components": [
+                "Negatron Cloak",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Rabadon's Deathcap",
+            "components": [
+                "Needlessly Large Rod",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Archangle's Staff",
+            "components": [
+                "Needlessly Large Rod",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Morellonomicon",
+            "components": [
+                "Needlessly Large Rod",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Jewled Gauntlet",
+            "components": [
+                "Needlessly Large Rod",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "K/DA Emblem",
+            "components": [
+                "Needlessly Large Rod",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Blue Buff",
+            "components": [
+                "Tear of the Goddess",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Redemption",
+            "components": [
+                "Tear of the Goddess",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Hand of Justice",
+            "components": [
+                "Tear of the Goddess",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Emo Emblem",
+            "components": [
+                "Tear of the Goddess",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Warmog's Armor",
+            "components": [
+                "Giant's Belt",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Guardbreaker",
+            "components": [
+                "Giant's Belt",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Heartsteel Emblem",
+            "components": [
+                "Giant's Belt",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Thief's Gloves",
+            "components": [
+                "Sparring Gloves",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Punk Emblem",
+            "components": [
+                "Sparring Gloves",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Tactician's Crown",
+            "components": [
+                "Spatula",
+                "Spatula"
+            ]
+        }
+    ]
+}

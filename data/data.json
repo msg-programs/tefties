@@ -1,0 +1,1046 @@
+{
+    "champions": [
+        {
+            "name": "Ahri",
+            "traits": [
+                "K/DA",
+                "Spellweaver"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "K/DA Akali",
+            "traits": [
+                "K/DA",
+                "Breakout",
+                "Executioner"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "True Damage Akali",
+            "traits": [
+                "True Damage",
+                "Breakout",
+                "Executioner"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Amumu",
+            "traits": [
+                "Emo",
+                "Guardian"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Annie",
+            "traits": [
+                "Emo",
+                "Spellweaver"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Aphelios",
+            "traits": [
+                "Heartsteel",
+                "Rapidfire"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Bard",
+            "traits": [
+                "Jazz",
+                "Dazzler"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Blitzcrank",
+            "traits": [
+                "Disco",
+                "Sentinel"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Caitlyn",
+            "traits": [
+                "8-Bit",
+                "Rapidfire"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Corki",
+            "traits": [
+                "8-Bit",
+                "Big Shot"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Ekko",
+            "traits": [
+                "True Damage",
+                "Sentinel",
+                "Spellweaver"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Evelynn",
+            "traits": [
+                "K/DA",
+                "Crowd Diver"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Ezreal",
+            "traits": [
+                "Heartsteel",
+                "Big Shot"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Garen",
+            "traits": [
+                "8-Bit",
+                "Sentinel"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Gnar",
+            "traits": [
+                "Pentakill",
+                "Mosher",
+                "Superfan"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Gragas",
+            "traits": [
+                "Disco",
+                "Bruiser",
+                "Spellweaver"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Illaoi",
+            "traits": [
+                "ILLBEATS",
+                "Bruiser"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Jax",
+            "traits": [
+                "EDM",
+                "Mosher"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Jhin",
+            "traits": [
+                "Maestro",
+                "Big Shot"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Jinx",
+            "traits": [
+                "Punk",
+                "Rapidfire"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "K'Sante",
+            "traits": [
+                "Heartsteel",
+                "Sentinel"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Kai'Sa",
+            "traits": [
+                "K/DA",
+                "Big Shot"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Karthus",
+            "traits": [
+                "Pentakill",
+                "Executioner"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Katarina",
+            "traits": [
+                "Country",
+                "Crowd Diver"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Kayle",
+            "traits": [
+                "Pentakill",
+                "Edgelord"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Kayn",
+            "traits": [
+                "Heartsteel",
+                "Wildcard",
+                "Edgelord"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Kennen",
+            "traits": [
+                "True Damage",
+                "Guardian",
+                "Superfan"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Lillia",
+            "traits": [
+                "K/DA",
+                "Sentinel",
+                "Superfan"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Lucian",
+            "traits": [
+                "Jazz",
+                "Rapidfire"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Lulu",
+            "traits": [
+                "Hyperpop",
+                "Spellweaver"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Lux",
+            "traits": [
+                "EDM",
+                "Dazzler"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Miss Fortune",
+            "traits": [
+                "Jazz",
+                "Big Shot"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Mordekaiser",
+            "traits": [
+                "Pentakill",
+                "Sentinel"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Nami",
+            "traits": [
+                "Disco",
+                "Dazzler"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Neeko",
+            "traits": [
+                "K/DA",
+                "Guardian",
+                "Superfan"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Olaf",
+            "traits": [
+                "Pentakill",
+                "Bruiser"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Pantheon",
+            "traits": [
+                "Punk",
+                "Guardian"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Poppy",
+            "traits": [
+                "Emo",
+                "Mosher"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Qiyana",
+            "traits": [
+                "True Damage",
+                "Crowd Diver"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Riven",
+            "traits": [
+                "8-Bit",
+                "Edgelord"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Samira",
+            "traits": [
+                "Country",
+                "Executioner"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Senna",
+            "traits": [
+                "True Damage",
+                "Rapidfire"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Seraphine",
+            "traits": [
+                "K/DA",
+                "Spellweaver"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Sett",
+            "traits": [
+                "Heartsteel",
+                "Bruiser",
+                "Mosher"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Sona",
+            "traits": [
+                "Mixmaster",
+                "Spellweaver"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Tahm Kench",
+            "traits": [
+                "Country",
+                "Bruiser"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Taric",
+            "traits": [
+                "Disco",
+                "Guardian"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Thresh",
+            "traits": [
+                "Country",
+                "Guardian"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Twisted Fate",
+            "traits": [
+                "Disco",
+                "Dazzler"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Twitch",
+            "traits": [
+                "Punk",
+                "Executioner"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Urgot",
+            "traits": [
+                "Country",
+                "Mosher"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Vex",
+            "traits": [
+                "Emo",
+                "Executioner"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Vi",
+            "traits": [
+                "Punk",
+                "Mosher"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Viego",
+            "traits": [
+                "Pentakill",
+                "Edgelord"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Yasuo",
+            "traits": [
+                "True Damage",
+                "Edgelord"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Yone",
+            "traits": [
+                "Heartsteel",
+                "Crowd Diver",
+                "Edgelord"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Yorick",
+            "traits": [
+                "Pentakill",
+                "Guardian",
+                "Mosher"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Zac",
+            "traits": [
+                "EDM",
+                "Bruiser"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Zed",
+            "traits": [
+                "EDM",
+                "Crowd Diver"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Ziggs",
+            "traits": [
+                "Hyperpop",
+                "Dazzler"
+            ],
+            "tier": 5
+        }
+    ],
+    "traits": [
+        {
+            "name": "Big Shot",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Breakout",
+            "levels": [
+                1
+            ]
+        },
+        {
+            "name": "Bruiser",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Crowd Diver",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Dazzler",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Edgelord",
+            "levels": [
+                3,
+                5,
+                7
+            ]
+        },
+        {
+            "name": "Executioner",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Guardian",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Mosher",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Rapidfire",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Sentinel",
+            "levels": [
+                2,
+                4,
+                6,
+                8
+            ]
+        },
+        {
+            "name": "Spellweaver",
+            "levels": [
+                3,
+                5,
+                7,
+                10
+            ]
+        },
+        {
+            "name": "Superfan",
+            "levels": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "8-Bit",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Country",
+            "levels": [
+                3,
+                5,
+                7
+            ]
+        },
+        {
+            "name": "Disco",
+            "levels": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "name": "EDM",
+            "levels": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "name": "Emo",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "Heartsteel",
+            "levels": [
+                3,
+                5,
+                7,
+                10
+            ]
+        },
+        {
+            "name": "Hyperpop",
+            "levels": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "name": "ILLBEATS",
+            "levels": [
+                1
+            ]
+        },
+        {
+            "name": "Jazz",
+            "levels": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "name": "K/DA",
+            "levels": [
+                3,
+                5,
+                7,
+                10
+            ]
+        },
+        {
+            "name": "Maestro",
+            "levels": [
+                1
+            ]
+        },
+        {
+            "name": "Mixmaster",
+            "levels": [
+                1
+            ]
+        },
+        {
+            "name": "Pentakill",
+            "levels": [
+                3,
+                5,
+                7,
+                10
+            ]
+        },
+        {
+            "name": "Punk",
+            "levels": [
+                2,
+                4,
+                6
+            ]
+        },
+        {
+            "name": "True Damage",
+            "levels": [
+                2,
+                4,
+                6,
+                9
+            ]
+        },
+        {
+            "name": "Wildcard",
+            "levels": [
+                1
+            ]
+        }
+    ],
+    "items": [
+        {
+            "name": "Deathblade",
+            "components": [
+                "B.F. Sword",
+                "B.F. Sword"
+            ]
+        },
+        {
+            "name": "Giant Slayer",
+            "components": [
+                "B.F. Sword",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Edge of Night",
+            "components": [
+                "B.F. Sword",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Bloodthirster",
+            "components": [
+                "B.F. Sword",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Hextech Gunblade",
+            "components": [
+                "B.F. Sword",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Spear of Shojin",
+            "components": [
+                "B.F. Sword",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Sterak's Gage",
+            "components": [
+                "B.F. Sword",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Infinity Edge",
+            "components": [
+                "B.F. Sword",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "True Damage Emblem",
+            "components": [
+                "B.F. Sword",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Red Buff",
+            "components": [
+                "Recurve Bow",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Titan's Resolve",
+            "components": [
+                "Recurve Bow",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Runaan's Hurricane",
+            "components": [
+                "Recurve Bow",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "components": [
+                "Recurve Bow",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Statikk Shiv",
+            "components": [
+                "Recurve Bow",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Nashor's Tooth",
+            "components": [
+                "Recurve Bow",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Last Whisper",
+            "components": [
+                "Recurve Bow",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "8-Bit Emblem",
+            "components": [
+                "Recurve Bow",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Bramble Vest",
+            "components": [
+                "Chain Vest",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Gargoyle Stoneplate",
+            "components": [
+                "Chain Vest",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Crownguard",
+            "components": [
+                "Chain Vest",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Protector's Vow",
+            "components": [
+                "Chain Vest",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Sunfire Cape",
+            "components": [
+                "Chain Vest",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Steadfast Heart",
+            "components": [
+                "Chain Vest",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Pentakill Emblem",
+            "components": [
+                "Chain Vest",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Dragon's Claw",
+            "components": [
+                "Negatron Cloak",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Ionic Spark",
+            "components": [
+                "Negatron Cloak",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Adaptive Helm",
+            "components": [
+                "Negatron Cloak",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Evenshroud",
+            "components": [
+                "Negatron Cloak",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Quicksilver",
+            "components": [
+                "Negatron Cloak",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Jazz Emblem",
+            "components": [
+                "Negatron Cloak",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Rabadon's Deathcap",
+            "components": [
+                "Needlessly Large Rod",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Archangle's Staff",
+            "components": [
+                "Needlessly Large Rod",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Morellonomicon",
+            "components": [
+                "Needlessly Large Rod",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Jewled Gauntlet",
+            "components": [
+                "Needlessly Large Rod",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "K/DA Emblem",
+            "components": [
+                "Needlessly Large Rod",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Blue Buff",
+            "components": [
+                "Tear of the Goddess",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Redemption",
+            "components": [
+                "Tear of the Goddess",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Hand of Justice",
+            "components": [
+                "Tear of the Goddess",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Emo Emblem",
+            "components": [
+                "Tear of the Goddess",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Warmog's Armor",
+            "components": [
+                "Giant's Belt",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Guardbreaker",
+            "components": [
+                "Giant's Belt",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Heartsteel Emblem",
+            "components": [
+                "Giant's Belt",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Thief's Gloves",
+            "components": [
+                "Sparring Gloves",
+                "Sparring Gloves"
+            ]
+        },
+        {
+            "name": "Punk Emblem",
+            "components": [
+                "Sparring Gloves",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Tactician's Crown",
+            "components": [
+                "Spatula",
+                "Spatula"
+            ]
+        }
+    ]
+}

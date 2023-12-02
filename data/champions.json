@@ -1,0 +1,496 @@
+{
+    "champions": [
+        {
+            "name": "Ahri",
+            "traits": [
+                "K/DA",
+                "Spellweaver"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "K/DA Akali",
+            "traits": [
+                "K/DA",
+                "Breakout",
+                "Executioner"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "True Damage Akali",
+            "traits": [
+                "True Damage",
+                "Breakout",
+                "Executioner"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Amumu",
+            "traits": [
+                "Emo",
+                "Guardian"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Annie",
+            "traits": [
+                "Emo",
+                "Spellweaver"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Aphelios",
+            "traits": [
+                "Heartsteel",
+                "Rapidfire"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Bard",
+            "traits": [
+                "Jazz",
+                "Dazzler"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Blitzcrank",
+            "traits": [
+                "Disco",
+                "Sentinel"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Caitlyn",
+            "traits": [
+                "8-Bit",
+                "Rapidfire"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Corki",
+            "traits": [
+                "8-Bit",
+                "Big Shot"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Ekko",
+            "traits": [
+                "True Damage",
+                "Sentinel",
+                "Spellweaver"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Evelynn",
+            "traits": [
+                "K/DA",
+                "Crowd Diver"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Ezreal",
+            "traits": [
+                "Heartsteel",
+                "Big Shot"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Garen",
+            "traits": [
+                "8-Bit",
+                "Sentinel"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Gnar",
+            "traits": [
+                "Pentakill",
+                "Mosher",
+                "Superfan"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Gragas",
+            "traits": [
+                "Disco",
+                "Bruiser",
+                "Spellweaver"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Illaoi",
+            "traits": [
+                "ILLBEATS",
+                "Bruiser"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Jax",
+            "traits": [
+                "EDM",
+                "Mosher"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Jhin",
+            "traits": [
+                "Maestro",
+                "Big Shot"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Jinx",
+            "traits": [
+                "Punk",
+                "Rapidfire"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "K'Sante",
+            "traits": [
+                "Heartsteel",
+                "Sentinel"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Kai'Sa",
+            "traits": [
+                "K/DA",
+                "Big Shot"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Karthus",
+            "traits": [
+                "Pentakill",
+                "Executioner"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Katarina",
+            "traits": [
+                "Country",
+                "Crowd Diver"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Kayle",
+            "traits": [
+                "Pentakill",
+                "Edgelord"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Kayn",
+            "traits": [
+                "Heartsteel",
+                "Wildcard",
+                "Edgelord"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Kennen",
+            "traits": [
+                "True Damage",
+                "Guardian",
+                "Superfan"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Lillia",
+            "traits": [
+                "K/DA",
+                "Sentinel",
+                "Superfan"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Lucian",
+            "traits": [
+                "Jazz",
+                "Rapidfire"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Lulu",
+            "traits": [
+                "Hyperpop",
+                "Spellweaver"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Lux",
+            "traits": [
+                "EDM",
+                "Dazzler"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Miss Fortune",
+            "traits": [
+                "Jazz",
+                "Big Shot"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Mordekaiser",
+            "traits": [
+                "Pentakill",
+                "Sentinel"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Nami",
+            "traits": [
+                "Disco",
+                "Dazzler"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Neeko",
+            "traits": [
+                "K/DA",
+                "Guardian",
+                "Superfan"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Olaf",
+            "traits": [
+                "Pentakill",
+                "Bruiser"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Pantheon",
+            "traits": [
+                "Punk",
+                "Guardian"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Poppy",
+            "traits": [
+                "Emo",
+                "Mosher"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Qiyana",
+            "traits": [
+                "True Damage",
+                "Crowd Diver"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Riven",
+            "traits": [
+                "8-Bit",
+                "Edgelord"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Samira",
+            "traits": [
+                "Country",
+                "Executioner"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Senna",
+            "traits": [
+                "True Damage",
+                "Rapidfire"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Seraphine",
+            "traits": [
+                "K/DA",
+                "Spellweaver"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Sett",
+            "traits": [
+                "Heartsteel",
+                "Bruiser",
+                "Mosher"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Sona",
+            "traits": [
+                "Mixmaster",
+                "Spellweaver"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Tahm Kench",
+            "traits": [
+                "Country",
+                "Bruiser"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Taric",
+            "traits": [
+                "Disco",
+                "Guardian"
+            ],
+            "tier": 1
+        },
+        {
+            "name": "Thresh",
+            "traits": [
+                "Country",
+                "Guardian"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Twisted Fate",
+            "traits": [
+                "Disco",
+                "Dazzler"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Twitch",
+            "traits": [
+                "Punk",
+                "Executioner"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Urgot",
+            "traits": [
+                "Country",
+                "Mosher"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Vex",
+            "traits": [
+                "Emo",
+                "Executioner"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Vi",
+            "traits": [
+                "Punk",
+                "Mosher"
+            ],
+            "tier": 2
+        },
+        {
+            "name": "Viego",
+            "traits": [
+                "Pentakill",
+                "Edgelord"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Yasuo",
+            "traits": [
+                "True Damage",
+                "Edgelord"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Yone",
+            "traits": [
+                "Heartsteel",
+                "Crowd Diver",
+                "Edgelord"
+            ],
+            "tier": 3
+        },
+        {
+            "name": "Yorick",
+            "traits": [
+                "Pentakill",
+                "Guardian",
+                "Mosher"
+            ],
+            "tier": 5
+        },
+        {
+            "name": "Zac",
+            "traits": [
+                "EDM",
+                "Bruiser"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Zed",
+            "traits": [
+                "EDM",
+                "Crowd Diver"
+            ],
+            "tier": 4
+        },
+        {
+            "name": "Ziggs",
+            "traits": [
+                "Hyperpop",
+                "Dazzler"
+            ],
+            "tier": 5
+        }
+    ]
+}
